@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TigrisDK
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning bachelor degree in software technology engineering 
+
 /*- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...*/
 
