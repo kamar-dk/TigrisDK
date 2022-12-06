@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TigrisDK
-- 👀 I’m interested in software development
+- 👀 I’m interested in software development, and got an interrest in trying to make small games.
 - 🌱 I’m currently learning bachelor degree in software technology engineering 
 
 /*
